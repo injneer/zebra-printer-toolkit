@@ -1,0 +1,6 @@
+^XA
+^PW400
+^LL200
+^FO50,50^AEN,40,20^FDHello World^FS
+^FO50,110^ADN,28,14^FDSimple text label^FS
+^XZ
