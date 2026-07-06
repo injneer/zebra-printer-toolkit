@@ -1,7 +1,7 @@
 'use strict';
 const net = require('net');
 
-const PRINTER_IP = '192.168.1.149';
+const PRINTER_IP = '192.168.1.180';
 const PRINTER_PORT = 9100;
 
 /**

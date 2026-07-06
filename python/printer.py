@@ -3,7 +3,7 @@ Zebra Printer - Simple scratch code for quick integration
 """
 import socket
 
-PRINTER_IP = '192.168.1.149'
+PRINTER_IP = '192.168.1.180'
 PRINTER_PORT = 9100
 
 def print_label(zpl: str, copies: int = 1, ip: str = PRINTER_IP, port: int = PRINTER_PORT):
